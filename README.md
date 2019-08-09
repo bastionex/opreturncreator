@@ -1,10 +1,8 @@
 # opreturncreator
-OP_RETURN creator. Currently written in Python, please translate to other languages!
-
-To-do: c++, QT/gui version
+Vulcano OP_RETURN creator. Currently written in Python
 
 Usage: 
 
-```./opreturn 0.01 CZPcWVtGDMqADJpJRFoeEX82D3QLZo9qjF 'Hello World!'```
+```./opreturn VKNbFaXzT3HHAUjmbWh4X36AEJtNLHiPue 'This is a test.'```
 
-```./opreturn 0.01 CesytMSusJFd1sW3VX7tXk7nx821u4NRtW 'CHNCThis message has the standard chancoin prefix.'```
+```./retrieve 20a5f962ac649bcd4fe2e404a651b11350b040bd910262a6e5655a887ac605ec```
